@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-// components
+// screens
 import GameScreen from "./screens/GameScreen";
 import PauseScreen from "./screens/PauseScreen";
 import WelcomeScreen from "./screens/WelcomeScreen";
